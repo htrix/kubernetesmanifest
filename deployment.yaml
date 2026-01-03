@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: flaskdemo
-        image: htrix/test:9
+        image: htrix/test:10
         resources: {}
         env:
         - name: PALAVRA1
